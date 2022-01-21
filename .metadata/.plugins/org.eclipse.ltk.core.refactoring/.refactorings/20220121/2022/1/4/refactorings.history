@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;game.interaction.orc.java&apos; to &apos;Orc.java&apos;&#x0D;&#x0A;- Original project: &apos;20220121&apos;&#x0D;&#x0A;- Original element: &apos;game.interaction.orc.java&apos;&#x0D;&#x0A;- Renamed element: &apos;game.interaction.Orc.java&apos;" description="Rename compilation unit &apos;orc.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;game.interaction{orc.java" name="Orc.java" references="false" stamp="1642756067811" version="1.0"/>
+</session>

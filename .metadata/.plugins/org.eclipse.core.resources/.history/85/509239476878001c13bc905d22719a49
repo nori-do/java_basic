@@ -1,0 +1,16 @@
+
+public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.print("박기도가 자바 공부를 한다.");
+		System.out.println("유튜브로 강의를 보면서 공부한다.");
+	int a = 5;
+	switch(a) {
+	case 1: System.out.println("1");
+	case 3: System.out.println("3");
+	case 5: System.out.println("5");
+	case 7: System.out.println("6");
+	}
+	Scanner scan = Scanner 
+	
+	}
+}
