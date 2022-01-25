@@ -14,6 +14,5 @@ public class Main02P302 {
 		System.out.println("-------------");
 		t1.showTeacher();
 		w1.showWorker();
-				
 	}
 }
