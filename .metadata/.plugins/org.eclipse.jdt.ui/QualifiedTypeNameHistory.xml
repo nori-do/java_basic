@@ -4,5 +4,9 @@
     <fullyQualifiedTypeName name="accessmodifier.Warrior"/>
     <fullyQualifiedTypeName name="superkeyword.SupersonicAirplane"/>
     <fullyQualifiedTypeName name="static1.StaticTest"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Scanner"/>
+    <fullyQualifiedTypeName name="scanner.Scanner"/>
+    <fullyQualifiedTypeName name="javax.lang.model.util.ElementScanner14"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
