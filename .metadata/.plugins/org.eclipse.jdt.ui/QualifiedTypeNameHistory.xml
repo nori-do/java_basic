@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="accessmodifier.Warrior"/>
     <fullyQualifiedTypeName name="superkeyword.SupersonicAirplane"/>
     <fullyQualifiedTypeName name="static1.StaticTest"/>
@@ -9,4 +8,5 @@
     <fullyQualifiedTypeName name="scanner.Scanner"/>
     <fullyQualifiedTypeName name="javax.lang.model.util.ElementScanner14"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
