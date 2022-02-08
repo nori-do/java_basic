@@ -44,8 +44,8 @@ public class Lotto03 {
 				
 			}
 			
-			}
 		}
+	}
 	/*Collections.sort(lotto1);
 	System.out.println(""+lotto+lotto1);
 	count++;
