@@ -10,7 +10,7 @@ public class ArrayList01P447 {
 		//java.utill의 List나 ArrayList를 import해 쓰면 됩니다.
 		
 		//List는 생성시 List<자료형>을 적어넣어 해당 자료형을 
-		//가변 길이 배열 형태로 받아줄 수 있습3니다.
+		//가변 길이 배열 형태로 받아줄 수 있습니다.
 		//<>사이에는 기본형자료(int, double, boolean등)은 올 수 없습니다.
 		
 		//정수 자료를 받을 수 있는 리스트 생성(길이는 가변적)
