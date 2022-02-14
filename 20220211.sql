@@ -181,5 +181,5 @@ select * from userTble where height <
 (select mix(hight) from userTbl where height ) <
 (select min(reg_date) from userTbl where reg_date > 2021); 
 
-
+use ict_ppractice2;
 select * from userTbl;
