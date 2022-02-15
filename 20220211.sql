@@ -175,6 +175,7 @@ UPDATE userTbl set user_name = '김자바' where user_id = 'DSAM';
 (select mix(height) from userTbl where height);
 
 -- 1. 2021년 가입자 중 가입일이 제일 빠르 사람의 가입일자 구하기
+SELECT min(reg_date) FROM userTbl WHERE reg_date >= '2021-01-01';
 -- 2. 1의 쿼리문을 조건으로 해서 가입일이 제일 빠른 사람의 키 구하기
 -- 3. 2에서 구한 키를 조건으로 해서 최종적인 명단 만들기
 select * from userTble where height <
