@@ -337,5 +337,3 @@ CREATE PROCEDURE checkFiveYear2(emp_number INTEGER)
 	END $$
 DELIMITER ;
 call checkFiveYear(12);
-
-/* 이게 뭔 개 소리야.... */
